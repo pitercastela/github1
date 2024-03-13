@@ -1,3 +1,7 @@
 ablabla
 
+<<<<<<< HEAD
 mensagem do branch main
+=======
+feature fB
+>>>>>>> fB
