@@ -1,7 +1,5 @@
 ablabla
 
-<<<<<<< HEAD
-mensagem do branch main
-=======
-feature fB
->>>>>>> fB
+
+
+mensagem mesclada do branch main e FB
